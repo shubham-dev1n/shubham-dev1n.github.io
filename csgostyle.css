@@ -1,0 +1,37 @@
+body{
+	background-image: url(https://www.mithesports.com/wp-content/uploads/2015/09/CSGO.jpg);
+    background-size: cover;
+}
+h2{
+	color: #E1E1E0;
+	text-align: center;
+	border: 5px solid rgba(41, 74, 151,0.6);
+	cursor: pointer;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 250%;
+}
+li{
+	list-style: none;
+	display: inline-block;
+}
+p{
+	color: white;
+}
+.shup{
+	background-color: rgba(41, 74, 151,0.6);
+	line-height: 30px;
+	font-weight: bold;
+	font-size: 140%;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+#div1{
+	background-color: rgba(0, 150, 30,0.6);
+}
+img{margin-right: 20px;
+	float: left;
+}
+footer{ font-family: 'Yanone Kaffeesatz', sans-serif;
+	 text-align: center;
+	 font-size: 250%;
+	 color: #E1E1E0;
+}
